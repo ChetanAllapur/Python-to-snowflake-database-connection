@@ -1,0 +1,5 @@
+username='enter your snowflake username'
+password='enter your snowflake password'
+account='enter your account-id(for this watch my video on youtube-)'
+warehouse='enter warehouse name'
+database='enter database name'
